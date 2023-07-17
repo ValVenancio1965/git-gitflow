@@ -13,3 +13,4 @@ Test status
 Test status interface
 teste git status
 teste branch alterada
+teste git pull
