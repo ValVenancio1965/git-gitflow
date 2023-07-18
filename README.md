@@ -16,3 +16,5 @@ teste branch alterada
 teste git pull
 
 Teste do git stash
+
+Mensagem para o meu stash
