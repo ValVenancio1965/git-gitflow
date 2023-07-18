@@ -14,3 +14,5 @@ Test status interface
 teste git status
 teste branch alterada
 teste git pull
+
+Teste do git stash
