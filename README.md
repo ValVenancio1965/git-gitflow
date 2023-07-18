@@ -18,3 +18,5 @@ teste git pull
 Teste do git stash
 
 Mensagem para o meu stash
+
+Teste git commi --fixup
