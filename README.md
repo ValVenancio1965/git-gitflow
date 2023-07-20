@@ -24,3 +24,5 @@ Teste git commi --fixup
 Commit 1
 
 Commit 2
+
+Commit 3
