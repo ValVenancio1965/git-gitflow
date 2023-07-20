@@ -15,3 +15,4 @@ teste git status
 teste branch alterada
 git pull
 
+git pull
