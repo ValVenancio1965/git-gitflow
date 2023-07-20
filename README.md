@@ -14,3 +14,15 @@ Test status interface
 teste git status
 teste branch alterada
 teste git pull
+
+Teste do git stash
+
+Mensagem para o meu stash
+
+Teste git commi --fixup
+
+Commit 1
+
+Commit 2
+
+Commit 3
