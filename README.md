@@ -17,3 +17,24 @@ git pull
 
 git pull
 
+# Título da Issue
+
+## Descrição
+
+Esta é uma descrição detalhada do problema ou tarefa que precisa ser abordada nesta issue.
+
+## Passos para Reproduzir (caso seja um bug)
+
+1. Primeiro passo para reproduzir o problema.
+2. Segundo passo para reproduzir o problema.
+3. Terceiro passo para reproduzir o problema.
+
+## Comportamento Esperado
+
+Descreva o comportamento que você espera quando o problema for resolvido.
+
+## Comportamento Atual
+
+Descreva o comportamento atual que você está observando.
+
+## Capt
